@@ -1,0 +1,9 @@
+{
+  "name": "glow-guide-ai",
+  "version": "1.0.0",
+  "description": "AI-powered skincare analysis web application",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py"
+  }
+}
